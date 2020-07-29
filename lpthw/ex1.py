@@ -1,0 +1,13 @@
+print("Hello world")
+print()
+print("Welcome to atom, Ifedayo.")
+print()
+print("Thanks, This seems like fun.")
+print()
+print("Okay, let's get into it.")
+print("\n")
+print()
+# print("China don cast.")
+print("Can i be your ronaldo?")
+
+# This is called an octothorpe, pound, hash, or mesh. pick one ;)

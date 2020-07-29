@@ -1,0 +1,18 @@
+{% extends "layout.html" %}
+{% block content %}
+
+<h1>
+    <em style="color: darkred; font-size: 2em;">Fill the form</em>
+</h1>
+
+<body>
+    <form action='/hello' method="POST">
+        A greeting: <input type="text" name="greet">
+        <br/>
+        A name: <input type="text" name="name">
+        <br/>
+        <input type="submit">
+    </form>
+</body>
+
+{% endblock %}

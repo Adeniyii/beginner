@@ -1,0 +1,12 @@
+ctrl + t -- find file
+ctrl + shift + f -- find word in project folder
+ctrl + f -- find word in current file
+ctrl + , -- settings
+ctrl + \ -- toggle sidebar
+ctrl + o -- open file
+ctrl + alt + f2 -- bookmark line
+ctrl + shift + f2 -- clear all bookmarks
+ctrl + f2 -- show all bookmarks
+ctrl + r -- find methods, functions, variables in file
+tab -- auto complete
+ctrl + shift + m -- toggle preview mode

@@ -1,0 +1,15 @@
+2862720155
+Account name: f
+Account type: Savings
+Opening balance: f
+Account email: f
+9408793727
+Account name: fred
+Account type: Current
+Opening balance: 40 bucks
+Account email: cj@pant.com
+4450133848
+Account name: benn
+Account type: Savings
+Opening balance: 750000
+Account email: kilo
